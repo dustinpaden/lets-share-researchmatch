@@ -33,28 +33,28 @@ $(function () {
         // In cases with only 1 "like," a second "like" is added with time point 9999999. This "like" is added for programming purposes and is never executed, as it is outside the task time
 
         // In condition 1, the participant will receive 1 like at the following timepoint (in ms). Default: [12000, 9999999]
-        settings.condition_1_likes = [25000, 90000];
+        settings.condition_1_likes = [35000, 90000];
 
         // NOT USING In condition 2, user will receive 6 likes at the following timepoints (in ms). Default: [10000, 15000,35000,80000,1320000,150000]
         settings.condition_2_likes = [
-            10000, 40000, 67000, 89000, 130000, 155000,
+            30100, 40000, 67000, 89000, 130000, 155000,
         ];
 
         // In condition 3, user will receive 9 likes at the following timepoints (in ms). Default: [10000, 11000,15000,35000,80000,100000,110000,150000,20000]
         settings.condition_3_likes = [
-            10000, 25000, 40000, 55000, 67000, 75000, 100000, 150000, 170000,
+            30000, 40000, 45000, 55000, 67000, 75000, 100000, 150000, 170000,
         ];
 
         // **Others' likes**
         // To keep the total distribution of "likes" constant across conditions, The "likes" received by one group member can be adjusted according to the participant's. By default, the other group member receives 10 "likes" in the participant-ostracism condition, 5 in the participant-inclusion condtion, and 1 in the participant-overinclusion condtion.
         settings.condition_1_adjusted_likes = [
-            3000, 25000, 47000, 67000, 85000, 103000, 119000, 129000, 139000,
+            26000, 35000, 47000, 67000, 85000, 103000, 119000, 129000, 139000,
             147000,
         ]; // 10
         settings.condition_2_adjusted_likes = [
-            12000, 14000, 15000, 35000, 80000,
+            32000, 40000, 55000, 65000, 80000,
         ]; // 5
-        settings.condition_3_adjusted_likes = [12000, 9999999]; //1
+        settings.condition_3_adjusted_likes = [41000, 9999999]; //1
 
         // Usernames by which the participant will receive "likes"
         // If group member names are changed, these should be changed accordingly.
