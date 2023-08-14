@@ -1,0 +1,74 @@
+// **Group members profiles**   
+// Each profile consists of (1) avatar, (2) username, (3) personal description, (4) number of "likes" the profile will receive throughout the interaction
+	
+window.others = {
+  "posts" : [
+      {
+        "avatar": "avatars/avatar_17.png",
+        "username": "CY",
+        "text": "I like to think of my asexual identity as a framework with which to understand my past experiences and emotions and not a prescriptive life path. That being said, I think about my queerness often. Sometimes when people have casual sexual discussions I have to pretend to contribute. My identity makes me feel both alone and like a part of something.",
+        "likes": [14000, 26000, 49000, 67000, 90000, 112000, 136000, 150000] //8
+     },
+     {
+        "avatar": "avatars/avatar_35.png",
+        "username": "OM",
+        "text": "As someone who is questioning their sexual identity, it is definitely something I actively think about and consider as I experience various social situations. I definitely have surrounded myself with people that are supportive of me exploring my identity and will accept me no matter what. It is important to me to have outlets to discuss and contemplate these things in real life and even online.",
+        "likes": [20000, 33000, 52000, 75000, 100000, 129000, 148000] //7
+      },
+     {
+        "avatar": "avatars/avatar_23.png",
+        "username": "EMU",
+        "text": "Growing up as a lesbian, I felt like I had to camouflage in with my peers. Uncertain of how friends and family would react, I never shared about my crushes or went on dates with other girls. Today, I'd like to say I entirely understand myself, but I feel as if I still have learning to do. I often feel judged for being a lesbian, making me insecure of how I present in a social situation.",
+        "likes": [33300, 44400, 68000, 80000, 147000, 172000] //6
+      },
+      {
+        "avatar": "avatars/avatar_56.png",
+        "username": "AD",
+        "text": " Whenever I meet other people who identify as bisexual or lgbtqia+, it feels like we are all in on this fun little secret. I feel most comfortable being myself around other lgbtqia+ people, and I try to be a confidante for my friends and peers who might be questioning their sexuality. In a way, it feels like a cool club of people who see the world differently and act differently!",
+        "likes": [28000, 71000, 91000, 119000, 161000] //5
+      },
+      {
+        "avatar": "avatars/avatar_63.png",
+        "username": "WBM",
+        "text": "I think my sexual identity definitely influences how I am perceived by others. I know that in general, my appearance is very clearly heterosexual so I definitely think that with that comes a certain set of social life experiences. B/c I usually attract a certain type of person. I don't necessarily dislike this, but I would be more interested in getting to know other types of people too",
+        "likes": [29000, 64000, 82000, 105000, 159000] //5
+      },
+      {
+        "avatar": "avatars/avatar_14.png",
+        "username": "DC",
+        "text": " Being heterosexual I guess makes me feel more \"accepted\" in a group due to heteronormativity, and also safer in the world (one less social disadvantage?). However I like that sexual orientation is not a topic I usually talk about with people and that I'm not questioned about it, it feels more comfortable.",
+        "likes": [10000, 27000, 46000, 55000, 80000, 125000, 146000, 160000] //8
+      },
+      {
+        "avatar": "avatars/avatar_9.png",
+        "username": "VN",
+        "text": "Since I identify as straight, I notice I tend to surround myself more with others who identify as straight. This tendency was not intentional and held no oppositions towards people whose sexual identity is different from mine, but it is the case that I seem to have more shared experiences with people who also identify as straight.",
+        "likes": [28000, 31000, 47000, 66000, 85000, 92000, 110000, 135000, 158000, 167000] //10
+      },
+      {
+        "avatar": "avatars/avatar_0.png",
+        "username": "FRR",
+        "text": "I see that my sexual identity doesn't affect my life ever because I don't think about it. Whenever I talk with friends about a love interest, they are always right to assume I'm talking about a guy. I never have to correct them. And then I see others with non-heterosexual identities, and they probably have to be consciously aware about this everyday for safety. This needs to change.",
+        "likes": [19000, 38000, 41000, 63000, 97000, 137000, 148000, 178000] //8
+      },
+      {
+        "avatar": "avatars/avatar_72.png",
+        "username": "GC",
+        "text": "I feel like my identity doesn't totally impact my social experiences. I'm friends with a diverse group of people (guys and girls) so I still have a good mix of both genders. It influences relationships that are romantic more so.",
+        "likes": [49000, 58000, 71000, 93000, 117000, 157000] //6
+      },
+      {
+        "avatar": "avatars/avatar_51.png",
+        "username": "PFG",
+        "text": "My sexual identity honestly doesn't impact my social life experiences. So I don't think about how this influences my perception and self-expression.",
+		"likes": [37500, 68000, 91000, 134000] //4
+      },
+      {
+        "avatar": "avatars/avatar_19.png",
+        "username": "KB",
+        "text": "In general, my sexual identity doesn't affect my social life experiences much from an external perspective. I'm mostly straight and pursue men if anyone (I'm a woman), but since I'm bisexual it can feel different internally. Still I don't really share much about my bisexual identity.",
+        "likes": [43000, 56000, 129000] //3
+      },
+    ]
+  };
+  
